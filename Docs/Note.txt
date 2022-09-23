@@ -1,0 +1,31 @@
+* Admin:
+- Khi người dùng dùng thanh toán thành công sẽ gửi mail
+- Đơn hàng: bỏ Đơn vị giao, trạng thái. thêm hình thức thanh toán
+- Sảm phẩm: trạng thái đổi thành hiển thị/ ko hiển thị
+- Tin tức/ bài viết: bỏ
+- Liên hệ: bỏ
+- Khách hàng: bỏ
+- Thương hiệu: đổi thành loại sản phẩm, thêm loại sản phẩm cha
+
+* Page user:
+- SP Khuyến mãi: hiển thị lên trang người dùng
+- Menu:
+ + hình giỏ hàng: để số lượng
+- Footer: 
+ + bỏ Đăng ký, kết nối, đã thông báo BCT, Copyright
+ + thay đổi Liên kết
+- Thêm loại sản phẩm cha con
+- Trang chủ: 
+ + thương hiệu: bỏ
+ + sửa giao diện button Xem thêm
+ + sửa giao diện, thêm khung vào từng sản phẩm
+ + bỏ hiển thị số lượng SP
+ + bỏ xác nhận thêm vào giỏ hàng
+ + bỏ tài khoản người dùng
+- Chi tiết sản phẩm:
+ + danh sách ảnh đi kèm
+ + bỏ số lượng, tình trạng
+- Giỏ hàng:
+ + Chỉ để họ tên, mail, địa chỉ, sđt, ghi chú
+ + Nhập thông tin > Xác nhận đơn hàng > Tiếp tục TT
+ + Bỏ xác nhận thanh toán
